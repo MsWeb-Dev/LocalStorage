@@ -1,0 +1,14 @@
+h1,p{
+    color: aqua;
+    font-size: 3rem;
+    font-family: cursive;
+    text-align: center;
+}
+p{
+    font-size: 1rem;
+    color:palevioletred;
+}
+body{
+    box-sizing: border-box;
+    background: #f8bbe0;
+}
