@@ -1,26 +1,20 @@
-body{
-    background: rgb(159, 159, 245);
+ul{
+    margin-left: 440px;
+    margin-top: 200px;
 }
-
-h1{
-    text-align: center;
-    color: brown;
-    font-family: cursive;
-}
-/* input{
-    margin: 10px 5px;
-}
-form{
+input{
+    border-radius: 12px;
     width: 200px;
-} */
-/* table{
-    width: 400px;
-    border: 2px solid black;
-    position: absolute;
-    display: inline-block;
-    margin-left: 100px;
+    height: 32px;
+    border: 2px solid rgb(94, 125, 247);
 }
-th,td,tr{
-    border: 2px solid black;
-    
-} */
+button{
+    margin-top: 100px;
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+    border: 2px solid rgb(74, 126, 237);
+    margin-left: -240px;
+    position: absolute;
+
+    }
