@@ -1,0 +1,26 @@
+body{
+    background: rgb(159, 159, 245);
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    font-family: cursive;
+}
+/* input{
+    margin: 10px 5px;
+}
+form{
+    width: 200px;
+} */
+/* table{
+    width: 400px;
+    border: 2px solid black;
+    position: absolute;
+    display: inline-block;
+    margin-left: 100px;
+}
+th,td,tr{
+    border: 2px solid black;
+    
+} */
