@@ -1,2 +1,3 @@
-const input = document.querySelector("input")
-localStorage.setItem("ism",input(value))
+const input = document.querySelector("input").value
+localStorage.getItem("ism",input)
+console.log(input)
